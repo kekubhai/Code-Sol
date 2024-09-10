@@ -59,7 +59,8 @@
   "files.associations": {
     "Merge2Arrays.C": "cpp",
     "BinarySearch.C": "cpp",
-    "AllinOne.C": "cpp"
+    "AllinOne.C": "cpp",
+    "StackUsingArray.C": "cpp"
   },
   "C_Cpp.errorSquiggles": "enabled"
 }
