@@ -14,7 +14,7 @@ haystack = "This is a test string. This is only a test."
 needle = "is"
 n = 3
 
-index = find_nth_occurrence(haystack, needle, n)
+index = find_nth_occurrence(haystack, needle, n-1)
 if index != -1:
     print(f"The {n} occurrence of '{needle}' is at index {index}.")
 else:
