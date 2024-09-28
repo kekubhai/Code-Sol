@@ -60,7 +60,8 @@
     "Merge2Arrays.C": "cpp",
     "BinarySearch.C": "cpp",
     "AllinOne.C": "cpp",
-    "StackUsingArray.C": "cpp"
+    "StackUsingArray.C": "cpp",
+    "StackUsingLinkedList.C": "cpp"
   },
   "C_Cpp.errorSquiggles": "enabled"
 }
