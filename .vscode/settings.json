@@ -61,7 +61,8 @@
     "BinarySearch.C": "cpp",
     "AllinOne.C": "cpp",
     "StackUsingArray.C": "cpp",
-    "StackUsingLinkedList.C": "cpp"
+    "StackUsingLinkedList.C": "cpp",
+    "Insertdelete.C": "cpp"
   },
   "C_Cpp.errorSquiggles": "enabled"
 }
