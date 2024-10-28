@@ -62,7 +62,8 @@
     "AllinOne.C": "cpp",
     "StackUsingArray.C": "cpp",
     "StackUsingLinkedList.C": "cpp",
-    "Insertdelete.C": "cpp"
+    "Insertdelete.C": "cpp",
+    "newfile.C": "cpp"
   },
   "C_Cpp.errorSquiggles": "enabled"
 }
