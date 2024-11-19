@@ -31,7 +31,7 @@ int main(){
     cout<<"Enter the number of nodes"<<endl;
     cin>>n;
     int m;
-    cout<<"Enter the Number of Edges"<<endl;
+    cout<<"Enter the Number of Edges here"<<endl;
     cin>>m;
     graph g;
     for(int i=0;i<m;i++){
